@@ -1,11 +1,9 @@
-# Hi there! I'm Sayan Barma 👋
+# Hi there! I'm OM HALDER 👋
+
+
 
 <div align="center">
-  <img src="assets/banner.jpeg" width="800" alt="Profile Banner">
-</div>
-
-<div align="center">
-  <h3>Python Developer | Machine Learning & IoT Enthusiast | Building Scalable Backend & Embedded Solutions</h3>
+  <h3>Full Stack  | Machine Learning & IoT Enthusiast | Building Scalable Backend & Embedded Solutions</h3>
 </div>
 
 <div align="center">
