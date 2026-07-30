@@ -1,45 +1,36 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="OM HALDER"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[om-halder-portfolio.netlify.app](https://om-halder-portfolio.netlify.app) &nbsp;·&nbsp;
+[github.com/om-halder](https://github.com/om-halder) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/om-halder/)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> Bachelor in Computer Application | BCET (2024-2028)<br>
+> CGPA: 8.2 (till 4th Semester) | Passionate about Full Stack and Machine Learning
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+Building PROJECTS, Full-stack Applications, and AI-driven Tools | Love Learning with Python, Golang, C++ | Portfolio: https://om-halder-portfolio.netlify.app
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; golang &nbsp; c++ &nbsp; mongodb &nbsp; express &nbsp; react &nbsp; node.js &nbsp; gemini ai &nbsp; socket.io &nbsp; leaflet</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+**[ai-code-reviewer](https://github.com/om-halder/ai-code-reviewer)** &nbsp;·&nbsp; <samp>mern, gemini ai</samp><br>
+Web-based platform leveraging AI to analyze code, detect errors, and suggest improvements in real time. Built with MERN stack + Gemini AI.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+**[live-location-tracker](https://github.com/om-halder/live-location-tracker)** &nbsp;·&nbsp; <samp>socket.io, leaflet, node.js</samp><br>
+Real-time location tracking app — share and monitor multiple locations on an interactive map with seamless live movement via Socket.io.
 
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
-
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+**[agro-connect](https://github.com/om-halder/agro-connect)** &nbsp;·&nbsp; <samp>ml, image processing</samp><br>
+Crop disease diagnosis platform where users upload leaf images and receive disease, cure, and prevention guidance from a backend ML model.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
